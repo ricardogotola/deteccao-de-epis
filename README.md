@@ -322,3 +322,13 @@ cv2.destroyAllWindows()
 Apesar de o dataset utilizado ser relativamente pequeno, o tempo de treinamento das imagens foi consideravelmente longo. No entanto, os resultados obtidos foram, no mínimo, promissores. A detecção de óculos de segurança se mostrou a mais eficaz durante a identificação em tempo real pela câmera, enquanto o capacete e o abafador de ruídos apresentaram maior demora para serem reconhecidos.
 Com a ampliação do dataset, uma rotulação mais detalhada e um maior refinamento nos critérios de classificação, é possível alcançar melhorias significativas nos resultados. 
 Abaixo, apresento algumas imagens capturadas durante os testes de detecção realizados utilizando minha webcam.
+
+![Captura de tela 2024-12-05 174337](https://github.com/user-attachments/assets/00522a70-3784-45b7-98d3-7c45f92602bc)
+![Captura de tela 2024-12-05 174428](https://github.com/user-attachments/assets/c1874d80-3acf-49b9-af19-3467b27be214)
+![Captura de tela 2024-12-05 174510](https://github.com/user-attachments/assets/8a8de0a8-9706-4f31-95fd-5bf08d881316)
+![Captura de tela 2024-12-05 174545](https://github.com/user-attachments/assets/559fe8dd-da1c-4f48-bfb3-cf168176a6f8)
+
+
+
+
+
